@@ -1,6 +1,6 @@
 # Work_at_Formula_Manipal
 Hi, hope this finds you well.
-The above repo summarizes majority of the technical work that was executed by myself, during my tenure at Formula Manipal.
+The above repo summarizes majority of the technical work that was executed by collaboratively by team mates & I, during my tenure at Formula Manipal.
 
 Broadly speaking my proejcts at FM included:
 1) Hardware & Firmware Design of a Data Acqusition system for a formula student car.
