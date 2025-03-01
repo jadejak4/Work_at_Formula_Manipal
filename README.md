@@ -1,9 +1,14 @@
-# Work_at_Formula_Manipal
-Hi, hope this finds you well.
-The above repo summarizes majority of the technical work that was executed by collaboratively by team mates & I, during my tenure at Formula Manipal.
+# Work at Formula Manipal
 
-Broadly speaking my proejcts at FM included:
-1) Hardware & Firmware Design of a Data Acqusition system for a formula student car.
-2) Integrating a telemetry system using Xbee modules & displaying data using a GUI
-3) Designing & manufracturing a wiring harness, compatible with the mechanical design and Engine Control Unit
-4) Designing, prototyping & designing PCBs for digital circuits used in the shutdown system for the car.
+Hi, hope this finds you well. This repository summarizes the majority of the technical work that was executed collaboratively by my teammates and me during my tenure at Formula Manipal.
+
+![My Team](My%20Team.avif)
+
+## Projects at Formula Manipal
+
+Broadly speaking, my projects at FM included:
+
+- **Hardware & Firmware Design** of a Data Acquisition system for a Formula Student car.
+- **Integrating a telemetry system** using XBee modules & displaying data using a GUI.
+- **Designing & manufacturing a wiring harness**, compatible with the mechanical design and Engine Control Unit.
+- **Designing, prototyping & manufacturing PCBs** for digital circuits used in the shutdown system for the car.
